@@ -1,0 +1,22 @@
+{
+    "abstract_generation": {
+        "system": "You are an abstract writer.",
+        "prompt": "Generate an abstract for the title '{}'.\nAbstract:",
+        "full_prompt": "Generate an abstract for the title '{}'.\nAbstract: {}",
+        "retrieval_history": "title: {title}.\nabstract: {abstract}\n",
+        "retrieval_query": "Generate an abstract for the title '{title}'.",
+        "retrieval_query_wokey": "Generate an abstract for the title '{}'.",
+        "OPPU_input": "Generate an abstract for the title '{title}'.\nAbstract:",
+        "OPPU_full": "Generate an abstract for the title '{title}'.\nAbstract: {abstract}"
+    },
+    "review_writing": {
+        "system": "You are a review writer.",
+        "prompt": "Generate the review text written by a reviewer who has a given an overall rating of \"{}\" for a product with description \"{}\". The summary of the review text is \"{}\".\nReview:",
+        "full_prompt": "Generate the review text written by a reviewer who has a given an overall rating of \"{}\" for a product with description \"{}\". The summary of the review text is \"{}\".\nReview: {}",
+        "retrieval_history": "description: {description} overall rating: {overall} summary: {summary}\n",
+        "retrieval_query": "Generate the review text written by a reviewer who has a given an overall rating of \"{overall}\" for a product with description \"{description}\". The summary of the review text is \"{summary}\"",
+        "retrieval_query_wokey": "Generate the review text written by a reviewer who has a given an overall rating of \"{}\" for a product with description \"{}\". The summary of the review text is \"{}\"",
+        "OPPU_input": "Generate a detailed review for a product with the following description: '{description}'. The review has an overall rating of '{overall}'. The review summary is: '{summary}'.\nReview:",
+        "OPPU_full": "Generate a detailed review for a product with the following description: '{description}'. The review has an overall rating of '{overall}'. The review summary is: '{summary}'.\nReview: {reviewText}"
+    }
+}
