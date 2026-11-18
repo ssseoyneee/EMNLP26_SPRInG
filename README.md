@@ -1,6 +1,8 @@
 # SPRInG: Continual LLM Personalization via Selective Parametric Adaptation and Retrieval-Interpolated Generation
 
-[Paper](https://aclanthology.org/2026.emnlp-main.1551.pdf) | [Project Page](https://ssseoyneee.github.io/spring_project_page/) | [ACL Anthology](https://aclanthology.org/2026.emnlp-main.1551/)
+[![Paper](https://img.shields.io/badge/EMNLP_2026-Paper-b31b1b)](https://aclanthology.org/2026.emnlp-main.1551/)
+[![PDF](https://img.shields.io/badge/PDF-ACL_Anthology-blue)](https://aclanthology.org/2026.emnlp-main.1551.pdf)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://ssseoyneee.github.io/spring_project_page/)
 
 ## Overview
 
